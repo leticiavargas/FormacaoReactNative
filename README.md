@@ -9,4 +9,4 @@ Com uma abordagem mais prática você irá criar diversos projetos ao longo da t
 
 ## Desafios
 
-- Desafio 1 (Fundamentos): Todo List 
+- Desafio 1 (Fundamentos): [Todo List](https://github.com/leticiavargas/FormacaoReactNative/tree/main/todo-list)
