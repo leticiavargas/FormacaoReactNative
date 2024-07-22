@@ -1,16 +1,20 @@
-# Projeto Todo List
+# Desafio 1 - Todo List
 
 ToDo List é uma aplicação mobile de criação e controle de tarefas.
 
 Esse projeto é um dos desafios da trilha de React Native do Ignite, bootcamp de especialização em React, React Native e Node.js da RocketSeat.
 
-IMAGEM...
+![Cover](https://github.com/user-attachments/assets/8269f189-6956-4bbc-8d36-f32b3c2bb433)
+
 
 ## Funcionalidades
 
 - Adicionar tarefas à lista
 - Marcar tarefas como concluídas
 - Remover tarefas da lista
+
+![todoList](https://github.com/user-attachments/assets/a99f5ca7-9d57-4f19-a160-928f1a415baf)
+
 
 ## Instalação
 
