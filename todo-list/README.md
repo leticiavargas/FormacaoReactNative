@@ -9,9 +9,10 @@ Esse projeto é um dos desafios da trilha de React Native do Ignite, bootcamp de
 
 ## Funcionalidades
 
-- Adicionar tarefas à lista
-- Marcar tarefas como concluídas
-- Remover tarefas da lista
+- Adicionar uma nova tarefa
+- Marcar e desmarcar uma tarefa como concluída
+- Remover uma tarefa da listagem
+- Mostrar o progresso de conclusão das tarefas
 
 ![todoList](https://github.com/user-attachments/assets/a99f5ca7-9d57-4f19-a160-928f1a415baf)
 
